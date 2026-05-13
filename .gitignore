@@ -1,0 +1,8 @@
+node_modules
+venv
+.env
+.next
+__pycache__
+dist
+buildnode_modules
+.next
